@@ -1,3 +1,3 @@
 # hello
 first repo
-hello 🥇
+hello 
